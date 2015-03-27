@@ -1,4 +1,4 @@
-This is an implementation of the P^4 algorithm as described in the paper "The P^2 Algorithm for Dynamic Calculation of Quantiles and Histograms Without Storing Observations" by Raj Jain and Imrich Chlamtac. It's based on [Aaron Small's implementation](https://github.com/absmall/p2).
+This is an implementation of the P^2 algorithm as described in the paper "The P^2 Algorithm for Dynamic Calculation of Quantiles and Histograms Without Storing Observations" by Raj Jain and Imrich Chlamtac. It's based on [Aaron Small's implementation](https://github.com/absmall/p2).
 
 I wrote this as part of my research into algorithms for computing quantiles without storing every observations. Other interesting resources:
 
